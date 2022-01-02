@@ -3,9 +3,9 @@ title: "UN Votes"
 author: "YOU"
 date: "`r Sys.Date()`"
 output: 
-  md_document: 
-    variant: markdown_github
-    
+  html_document: 
+    toc: yes
+    toc_float: yes
 ---
 
 ## Introduction
